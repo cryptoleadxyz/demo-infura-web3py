@@ -1,6 +1,3 @@
-# Author: CryptoLead at https://www.cryptolead.xyz
-# Date: 2023-03-14
-
 import os
 from datetime import date, datetime
 from dotenv import load_dotenv
